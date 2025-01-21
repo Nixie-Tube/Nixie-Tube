@@ -191,7 +191,7 @@ A fullstack developer, from <img src="https://cdn-icons-png.flaticon.com/512/197
 </p>
 
 ------------
-<p  align="center"><br/>Currently, the weather is: <b> -2°C, <i>overcast clouds</i></b></br>Today, the sun rises at <b>07:30</b> and sets at <b>17:20</b>.</p>
+<p  align="center"><br/>Currently, the weather is: <b> -6°C, <i>overcast clouds</i></b></br>Today, the sun rises at <b>07:30</b> and sets at <b>17:20</b>.</p>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
