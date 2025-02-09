@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nixie tube!
+# Hi there 👋, I'm Marc!
 A fullstack developer, from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden </p>
 
 **Researcher in Genrative AI | Robotics | Tech Enthusiast | Programmer | Book Lover | Amateur Philosopher**
@@ -191,7 +191,7 @@ A fullstack developer, from <img src="https://cdn-icons-png.flaticon.com/512/197
 </p>
 
 ------------
-<p  align="center"><br/>Currently, the weather is: <b> -3°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>07:14</b> and sets at <b>17:42</b>.</p>
+<p  align="center"><br/>Currently, the weather is: <b> -1°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>07:14</b> and sets at <b>17:42</b>.</p>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
