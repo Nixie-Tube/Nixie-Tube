@@ -162,13 +162,13 @@ A fullstack developer, from <img src="https://cdn-icons-png.flaticon.com/512/197
 -----
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nixie-Tube&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=marc-jiang&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
 </p>
 
 <p align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Nixie-Tube&count_private=true&theme=ambient_gradient&include_all_commits=true"/>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nixie-Tube&layout=compact&hide=Jupyter%20Notebook,TeX,HTML,CSS,SCSS&count_private=true&theme=ambient_gradient"/>
-<img height="250" src="https://streak-stats.demolab.com/?user=Nixie-Tube&count_private=true&theme=ambient_gradient&title_color=00b3ff" width="60%"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=marc-jiang&count_private=true&theme=ambient_gradient&include_all_commits=true"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-jiang&layout=compact&hide=Jupyter%20Notebook,TeX,HTML,CSS,SCSS&count_private=true&theme=ambient_gradient"/>
+<img height="250" src="https://streak-stats.demolab.com/?user=marc-jiang&count_private=true&theme=ambient_gradient&title_color=00b3ff" width="60%"/>
 
 </p>
 
@@ -178,7 +178,7 @@ A fullstack developer, from <img src="https://cdn-icons-png.flaticon.com/512/197
 
 
 <p align="center">
-<img src="https://profile-counter.glitch.me/Nixie-Tube/count.svg" alt="PrinceGoblinTech :: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/marc-jiang/count.svg" alt="PrinceGoblinTech :: Visitor's Count" />
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
