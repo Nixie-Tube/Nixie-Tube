@@ -161,14 +161,11 @@ A fullstack developer, from <img src="https://cdn-icons-png.flaticon.com/512/197
 
 -----
 
-
 <p align="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xiaokang2022&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Nixie-Tube&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=Nixie-Tube&count_private=true&theme=ambient_gradient&include_all_commits=true"/>
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nixie-Tube&layout=compact&hide=Jupyter%20Notebook,TeX,HTML,CSS,SCSS&count_private=true&theme=ambient_gradient"/>
-<img height="250" src="https://streak-stats.demolab.com/?user=Nixie-Tube&count_private=true&theme=ambient_gradient&title_color=00b3ff" width="60%"/>
-
 </p>
 
 
