@@ -1,1 +1,1 @@
-<p  align="center"><br/>Currently, the weather is: <b> 17°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:56</b> and sets at <b>17:00</b>.</p>
+<p  align="center"><br/>Currently, the weather is: <b> 15°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:56</b> and sets at <b>17:00</b>.</p>
